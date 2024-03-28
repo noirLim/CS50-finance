@@ -79,3 +79,8 @@ flask run
 </figure>
 
 <hr>
+
+<figure>
+  <img src="photos/register.png" alt="Register" width="400" height="200">
+  <figcaption>Register</figcaption>
+</figure>
