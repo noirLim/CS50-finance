@@ -1,4 +1,4 @@
-#CS50 Finance using Flask
+# CS50 Finance using Flask
 
 Running flask 
 - create a Python virtual environment;
@@ -29,3 +29,53 @@ pip install -r requirements.txt
 ```bash
 flask run
 ```
+# images
+
+<figure>
+  <img src="photos/login.png" alt="Login Form" width="400" height="200">
+  <figcaption>Login Form</figcaption>
+</figure>
+
+<hr>
+
+<figure>
+  <img src="photos/home.png" alt="Home" width="400" height="200">
+  <figcaption>Home</figcaption>
+</figure>
+
+<hr>
+
+<figure>
+  <img src="photos/quote.png" alt="Quote" width="400" height="200">
+  <figcaption>Quote</figcaption>
+</figure>
+
+<hr>
+
+<figure>
+  <img src="photos/buy.png" alt="Buy" width="400" height="200">
+  <figcaption>Buy</figcaption>
+</figure>
+
+<hr>
+
+<figure>
+  <img src="photos/sell.png" alt="Sell" width="400" height="200">
+  <figcaption>Sell</figcaption>
+</figure>
+
+<hr>
+
+<figure>
+  <img src="photos/history.png" alt="History" width="400" height="200">
+  <figcaption>History</figcaption>
+</figure>
+
+<hr>
+
+<figure>
+  <img src="photos/change_password.png" alt="Change Password" width="400" height="200">
+  <figcaption>Change Password</figcaption>
+</figure>
+
+<hr>
